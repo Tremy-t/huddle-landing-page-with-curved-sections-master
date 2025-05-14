@@ -1,10 +1,10 @@
-Hu# Frontend Mentor - Huddle landing page with curved sections
+# Frontend Mentor - Huddle landing page with curved sections
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking out this front-end coding challenge
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
@@ -39,7 +39,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code. 
+1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with your community. 
 
 
 
